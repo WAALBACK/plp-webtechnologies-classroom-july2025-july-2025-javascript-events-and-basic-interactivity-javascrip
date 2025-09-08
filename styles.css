@@ -1,0 +1,10 @@
+/* style.css */
+.dark-mode {
+  background-color: #222;
+  color: #fff;
+}
+
+.error {
+  color: red;
+  font-size: 0.9em;
+}
